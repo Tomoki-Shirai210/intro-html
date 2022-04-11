@@ -1,14 +1,7 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
+## Welcome to my page!
 
-Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+I am a graduate student and researching numerical simulations on typhoons, storm surges, and waves.
 
-Oh! I haven't introduced myself...
+I will share the tools that I have made, such as scripts for processing meteorological data, on Github. I look forward to making your work more efficient.
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
-Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
+Notably, you are free to use my code and scripts, but I will not be responsible for any problems that may occur in using them.
